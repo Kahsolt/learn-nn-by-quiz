@@ -12,6 +12,10 @@ Here I'll give a list of quizzes guiding to learn the [neural network](https://e
 
 👉 Let's go~ 🎉
 
+### Unit List
+
+  - [x] unit-0: setup toolchain
+
 ----
 by Armit
 2023/08/08
